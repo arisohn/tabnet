@@ -14,3 +14,7 @@ abstract_model.py
 
         _train_epoch()
             _train_batch()
+
+
+
+TabNetClassifier <- TabModel <- BaseEstimator 
